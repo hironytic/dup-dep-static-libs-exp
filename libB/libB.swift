@@ -1,5 +1,5 @@
 import libA
 
 public func b() -> Int {
-    return a() + 1
+    return A().a() + 1
 }

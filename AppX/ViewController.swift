@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print(libA.a())
+        print(libA.A().a())
         print(libB.b())
     }
 
